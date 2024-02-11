@@ -1,3 +1,7 @@
+image: Ubuntu 1840 # образ для сборки
+
+stack: node 12 # окружение
+
 environment:
   nodejs_version: "18"
 
