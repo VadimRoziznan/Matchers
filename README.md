@@ -1,3 +1,6 @@
+#CI Test demo 
+[![Build status](https://ci.appveyor.com/api/projects/status/oydvqu5mqycqqd0s?svg=true)](https://ci.appveyor.com/project/VadimRoziznan/matchers)
+
 ## Matchers
 
 ### Легенда
